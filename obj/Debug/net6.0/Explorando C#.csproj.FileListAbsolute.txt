@@ -1,0 +1,15 @@
+C:\Users\victo\Explorando C#\bin\Debug\net6.0\Explorando C#.exe
+C:\Users\victo\Explorando C#\bin\Debug\net6.0\Explorando C#.deps.json
+C:\Users\victo\Explorando C#\bin\Debug\net6.0\Explorando C#.runtimeconfig.json
+C:\Users\victo\Explorando C#\bin\Debug\net6.0\Explorando C#.dll
+C:\Users\victo\Explorando C#\bin\Debug\net6.0\Explorando C#.pdb
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\Explorando C#.csproj.AssemblyReference.cache
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\Explorando C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\Explorando C#.AssemblyInfoInputs.cache
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\Explorando C#.AssemblyInfo.cs
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\Explorando C#.csproj.CoreCompileInputs.cache
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\Explorando C#.dll
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\refint\Explorando C#.dll
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\Explorando C#.pdb
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\Explorando C#.genruntimeconfig.cache
+C:\Users\victo\Explorando C#\obj\Debug\net6.0\ref\Explorando C#.dll
